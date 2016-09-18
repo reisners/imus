@@ -5,5 +5,5 @@ import java.util.Set;
 public class Role {
 	private long id;
 	private String name;
-	private Set<User> users;
+	private Set<Profile> users;
 }
